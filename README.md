@@ -9,6 +9,8 @@ I am an aspiring data scientist and web developer driven by a passion for transf
 ### DATA SCIENCE
 Proficient in Sheets, SQL and PowerBI. I apply statistical analysis,machine learning, utilizing SQL for data manipulation and querying to extract meaningful insights and data visualization techniques to uncover valuable trends and empower informed decision-making.
 
+<img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/12b1e9be-71a5-44f8-96d2-b30a52f01acf" width="35" title="googlesheets"/>   <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/74646b14-5ee2-4820-8e92-09277af9f554" width="35" title="SQL"/>  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/c1faaceb-24e1-4bad-adf9-ed6ed5668d87" width="35" title="PowerBI"/>
+
 
 
 
