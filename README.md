@@ -1,6 +1,6 @@
 # Hello 👋 I'm Nelisiwe Bezana
 
-Profile_banner
+[Profile_banner](https://github.com/NelisiweBezana/NelisiweBezana/blob/main/Profile%20banner.png?raw=true)
 
 ### About Me:
 I am an aspiring data scientist and web developer driven by a passion for transforming data into actionable insights and crafting intuitive web experiences. 
