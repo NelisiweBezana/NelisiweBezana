@@ -15,6 +15,8 @@ Proficient in Sheets, SQL and PowerBI. I apply statistical analysis,machine lear
 ### WEB DEV
 Simultaneously, I excel in front-end technologies like HTML, CSS, and JavaScript, focusing on creating responsive, user-centric web applications that prioritize engagement and accessibility. With a commitment to excellence and a knack for problem-solving, I am dedicated to pushing the boundaries of technology and making a positive impact through innovative projects.
 
+[![image](https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/e3115b66-7737-4448-bdfe-81abc5042072)](https://athena.explore.ai/student/lesson/content-view/233/503/3712/3
+)
 
 
 
