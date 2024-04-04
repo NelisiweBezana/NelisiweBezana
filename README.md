@@ -12,7 +12,7 @@ Proficient in Sheets, SQL and PowerBI. I apply statistical analysis,machine lear
 #### Tools:
 <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/12b1e9be-71a5-44f8-96d2-b30a52f01acf" width="35" title="googlesheets"/>   <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/74646b14-5ee2-4820-8e92-09277af9f554" width="35" title="SQL"/>  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/c1faaceb-24e1-4bad-adf9-ed6ed5668d87" width="35" title="PowerBI"/>
 #### Projects:
-[Preparing Data with Google Sheets](https://github.com/NelisiweBezana/Preparing-data-with-Googlesheets) | [SQL](https://github.com/NelisiweBezana/SQL) | Data Visualisation | Machine Learning | Model Deployment
+[Preparing Data with Google Sheets](https://github.com/NelisiweBezana/Preparing-data-with-Googlesheets) | [SQL](https://github.com/NelisiweBezana/SQL) | [Data Visualisation](https://github.com/NelisiweBezana/Data-Visualization-with-PowerBI) | Machine Learning | Model Deployment
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
