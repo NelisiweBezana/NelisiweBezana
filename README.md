@@ -4,15 +4,20 @@
 
 
 ### About Me:
-I am an aspiring data scientist and web developer driven by a passion for transforming data into actionable insights and crafting intuitive web experiences. 
+I am a dedicated Data Practitioner with a background in leveraging data to drive business insights and optimize marketing strategies. My experience includes working with tools like Excel, SQL, Power BI, Tableau, Python, Machine Learning, AWS, and Google Analytics. With a strong educational foundation and practical experience, I strive to transform complex data into actionable insights and contribute effectively to strategic decision-making. 
 
-### DATA SCIENCE
-Proficient in Sheets, SQL and PowerBI. I apply statistical analysis,machine learning, utilizing SQL for data manipulation and querying to extract meaningful insights and data visualization techniques to uncover valuable trends and empower informed decision-making.
+### Data Science & Marketing Analytics:
+I have a profound interest in data science and marketing analytics. Proficient in statistical analysis and machine learning, I utilize SQL for data manipulation and querying and employ data visualization techniques to uncover valuable trends. My goal is to empower informed decision-making through comprehensive data insights. 
 
 #### Tools:
-<img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/12b1e9be-71a5-44f8-96d2-b30a52f01acf" width="35" title="googlesheets"/>   <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/74646b14-5ee2-4820-8e92-09277af9f554" width="35" title="SQL"/>  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/c1faaceb-24e1-4bad-adf9-ed6ed5668d87" width="35" title="PowerBI"/>
+<img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/12b1e9be-71a5-44f8-96d2-b30a52f01acf" width="35" title="googlesheets"/>   <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/74646b14-5ee2-4820-8e92-09277af9f554" width="35" title="SQL"/>  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/da9f34cc-27cf-4e50-973a-ef13e6c63690" width="35" title="PowerBI"/> 
+<img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/a54630ee-f97b-499a-8010-6f1a2a33296a" width="70" title="Tableau"/>
+<img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/e752813d-07e5-49a0-9d85-42738f76df9a" width="35" title="Py"/> 
+
+
+
 #### Projects:
-[Preparing Data with Google Sheets](https://github.com/NelisiweBezana/Preparing-data-with-Googlesheets) | [SQL](https://github.com/NelisiweBezana/SQL) | [Data Visualisation](https://github.com/NelisiweBezana/Data-Visualization-with-PowerBI) | Machine Learning | Model Deployment
+[Preparing Data with Google Sheets](https://github.com/NelisiweBezana/Preparing-data-with-Googlesheets) | [SQL](https://github.com/NelisiweBezana/SQL) | [Data Visualisation](https://github.com/NelisiweBezana/Data-Visualization-with-PowerBI) | [Regression](https://github.com/NelisiweBezana/Regression_Project_EG2) | [Natural Language Processing and Classification]() | [Unsupervised Learning]()
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
