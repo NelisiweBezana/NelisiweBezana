@@ -2,24 +2,37 @@
 
 ![banner](https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/3c211057-2a03-4dfe-99c3-e1d0cf05c82b)
 
+# 👋 Welcome — I'm so glad you're here!
+
+Let me take you on a journey through my portfolio — a curated collection of personal projects that reflect my passion for transforming data into impact.
+  
 ## 💡 About Me
+I'm a **Versatile Data & Reporting Analyst** with hands-on experience in **business intelligence**, **data science**, and **marketing analytics**. I have a proven track record of delivering impactful dashboards, automating reporting processes, and leading cross-functional data initiatives across **finance**, **risk**, and **marketing** domains.
 
-I am a dedicated Data Practitioner with a background in leveraging data to drive business insights and optimize marketing strategies. My experience includes tools like **Excel**, **SQL**, **Power BI**, **Tableau**, **Python**, **Machine Learning**, **AWS**, and **Google Analytics**.
+Skilled in **Advanced Excel**, **Power BI**, **SQL**, **Tableau**, and **Python**, I specialize in **data modeling**, **data analysis**, **data quality & governance**, and **stakeholder engagement**. Known for combining technical acumen with strategic thinking, I thrive on driving **data-informed decisions** and delivering measurable business value.
 
-With a strong educational foundation and practical experience, I transform complex data into actionable insights to support effective decision-making.
+> ⚠️ Please note: All projects featured here are personal and **do not include** proprietary or confidential work from any company I've worked for.
 
 ---
 
-## 🔍 Data Science & Analytics
+### 🧰 My Technical Toolkit
 
-I’m passionate about **Data Science**, **Business Intelligence**, and **Marketing Analytics**. I apply statistical analysis, ML techniques, and SQL for data wrangling and build compelling dashboards to inform strategic decisions.
+<p align="left">
+  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/12b1e9be-71a5-44f8-96d2-b30a52f01acf" width="40" title="Google Sheets" /> &nbsp;&nbsp;
+  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/74646b14-5ee2-4820-8e92-09277af9f554" height="60" title="SQL"/>  &nbsp;&nbsp;
+  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/da9f34cc-27cf-4e50-973a-ef13e6c63690" width="30" title="Power BI"/>  &nbsp;&nbsp;
+  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/a54630ee-f97b-499a-8010-6f1a2a33296a" height="40" title="Tableau"/>  &nbsp;&nbsp;
+  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/e752813d-07e5-49a0-9d85-42738f76df9a" width="35" title="Python"/> 
+  <img src="https://github.com/user-attachments/assets/b0aa71b3-1ed9-4712-b807-16938dc27a86" height="60" title="Streamlit"/> 
+  <img src="https://github.com/user-attachments/assets/3c4fff3a-455b-48aa-8ef2-42dcdfa188fc" height="60" title="Git"/> 
+  <img src="https://github.com/user-attachments/assets/981dae0a-0fbb-4545-979c-477195f06377" height="60" title="GitHub"/> 
+  <img src="https://github.com/user-attachments/assets/33350109-bce0-4531-a005-c4ea2287eb4b" height="50" title="Jupyter"/> 
+</p>
 
-### 🧰 Tools I Use
-<img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/12b1e9be-71a5-44f8-96d2-b30a52f01acf" width="35" title="Google Sheets"/>  
-<img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/74646b14-5ee2-4820-8e92-09277af9f554" width="35" title="SQL"/>  
-<img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/da9f34cc-27cf-4e50-973a-ef13e6c63690" width="35" title="Power BI"/>  
-<img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/a54630ee-f97b-499a-8010-6f1a2a33296a" width="70" title="Tableau"/>  
-<img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/e752813d-07e5-49a0-9d85-42738f76df9a" width="35" title="Python"/>  
+---
+
+✨ I hope you find this portfolio insightful and inspiring. Let’s connect, collaborate, and create data-driven impact together!
+- 📍 Johannesburg, Gauteng &nbsp; | 📧 nelisiwebezana@gmail.com &nbsp; |  📞 079 916 6964 &nbsp; | 🔗 [LinkedIn](https://www.linkedin.com/in/nelisiwebezana) &nbsp; | 💻 [Portfolio](https://github.com/NelisiweBezana)  
 
 ---
 
@@ -48,16 +61,6 @@ Alongside data work, I’m skilled in frontend development. I build responsive w
 <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/fc37ee1d-60c4-46e3-8790-18fb6aee6f18" width="30" title="JavaScript"/>  
 <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/c253fa16-25fe-41d1-86c4-7790d8eb1dd7" width="30" title="React.js"/>  
 <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/51bee11f-749b-4f30-a5c8-1dd756ce0c79" width="30" title="GitHub"/>  
-
----
-
-## 📫 Let's Connect
-
-- 📍 Johannesburg, Gauteng  
-- 📧 nelisiwebezana@gmail.com  
-- 📞 079 916 6964  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nelisiwebezana)  
-- 💻 [Portfolio](https://github.com/NelisiweBezana)  
 
 ---
 
