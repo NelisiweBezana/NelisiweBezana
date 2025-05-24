@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Nelisiwe Bezana
 
-![banner](https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/3c211057-2a03-4dfe-99c3-e1d0cf05c82b)
+![banner](https://github.com/user-attachments/assets/374c23ee-5b22-46a1-8773-22f705d69121)
+
 
 # 👋 Welcome — I'm so glad you're here!
 
