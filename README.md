@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nelisiwe Bezana
 
-![banner](https://github.com/user-attachments/assets/374c23ee-5b22-46a1-8773-22f705d69121)
+![banner](https://github.com/user-attachments/assets/3fc3376a-63d9-4e5c-a42c-ff9fc871997a)
 
 
 # 👋 Welcome — I'm so glad you're here!
@@ -21,8 +21,10 @@ Skilled in **Advanced Excel**, **Power BI**, **SQL**, **Tableau**, and **Python*
 <p align="left">
   <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/12b1e9be-71a5-44f8-96d2-b30a52f01acf" width="40" title="Google Sheets" /> &nbsp;&nbsp;
   <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/74646b14-5ee2-4820-8e92-09277af9f554" height="60" title="SQL"/>  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/6ce72bc1-8e83-44a5-aed1-0bdb932d0ed3" height="40" title="SSIS"/>  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/bdc4457f-eca7-42e8-8339-885938008a10" height="40" title="Denodo"/>  &nbsp;&nbsp;
   <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/da9f34cc-27cf-4e50-973a-ef13e6c63690" width="30" title="Power BI"/>  &nbsp;&nbsp;
-  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/a54630ee-f97b-499a-8010-6f1a2a33296a" height="40" title="Tableau"/>  &nbsp;&nbsp;
+  <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/a54630ee-f97b-499a-8010-6f1a2a33296a" height="35" title="Tableau"/>  &nbsp;&nbsp;
   <img src="https://github.com/NelisiweBezana/NelisiweBezana/assets/140618126/e752813d-07e5-49a0-9d85-42738f76df9a" width="35" title="Python"/> 
   <img src="https://github.com/user-attachments/assets/b0aa71b3-1ed9-4712-b807-16938dc27a86" height="60" title="Streamlit"/> 
   <img src="https://github.com/user-attachments/assets/3c4fff3a-455b-48aa-8ef2-42dcdfa188fc" height="60" title="Git"/> 
