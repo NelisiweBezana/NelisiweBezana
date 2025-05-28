@@ -43,7 +43,7 @@ Skilled in **Advanced Excel**, **Power BI**, **SQL**, **Tableau**, and **Python*
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🧽 Water Quality & Access in Maji Ndogo](https://github.com/NelisiweBezana/Maji-Ndogo-Water-Project) | Clustered and visualised rural water data using SQL and Power BI to uncover access issues and contamination. | SQL, Clustering, Power BI, Python |
+| [🧽 Chennai Housing Sales Price Prediction](https://github.com/NelisiweBezana/Maji-Ndogo-Water-Project) | Developed a machine learning model to predict residential property prices in Chennai using extensive data cleaning, feature engineering, exploratory analysis, and regression techniques, including Random Forest and XGBoost. | SQL, Clustering, Power BI, Python |
 | [📰 News Article Classification](https://github.com/NelisiweBezana/News-Article-Classification) | Built and deployed ML models for classifying articles using Streamlit and MLflow. | Python, NLP, Streamlit, MLflow, Git |
 | [🌍 CO₂ Emissions Forecasting](https://github.com/NelisiweBezana/CO2-Emissions-PowerBI) | Forecasted CO₂ emissions in the agri-food sector using regression and Power BI. | Regression, Power BI, MLflow, Git |
 | [🐘 Threatened Species SQL Analysis](https://github.com/NelisiweBezana/Threatened-Species-Analysis) | Cleaned and analysed IUCN species data in SQL and visualised trends with Power BI. | SQL, Python, Power BI |
