@@ -43,8 +43,8 @@ Skilled in **Advanced Excel**, **Power BI**, **SQL**, **Tableau**, and **Python*
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🧽 Chennai Housing Sales Price Prediction](https://github.com/NelisiweBezana/Maji-Ndogo-Water-Project) | Developed a machine learning model to predict residential property prices in Chennai using extensive data cleaning, feature engineering, exploratory analysis, and regression techniques, including Random Forest and XGBoost. | SQL, Clustering, Power BI, Python |
-| [📰 News Article Classification](https://github.com/NelisiweBezana/News-Article-Classification) | Built and deployed ML models for classifying articles using Streamlit and MLflow. | Python, NLP, Streamlit, MLflow, Git |
+| [🏡 Chennai Housing Sales Price Prediction](https://github.com/NelisiweBezana/Maji-Ndogo-Water-Project) | Developed a machine learning model to predict residential property prices in Chennai using extensive data cleaning, feature engineering, exploratory analysis, and regression techniques, including Random Forest and XGBoost. | SQL, Clustering, Power BI, Python |
+| [💧 Water Equity Intelligence: A Data-Driven Mission in Maji Ndogo](https://github.com/NelisiweBezana/News-Article-Classification) | Analysed water access data in Maji Ndogo using SQL to uncover quality issues, infrastructure gaps, and provide actionable insights for equitable distribution. | Python, NLP, Streamlit, MLflow, Git |
 | [🌍 CO₂ Emissions Forecasting](https://github.com/NelisiweBezana/CO2-Emissions-PowerBI) | Forecasted CO₂ emissions in the agri-food sector using regression and Power BI. | Regression, Power BI, MLflow, Git |
 | [🐘 Threatened Species SQL Analysis](https://github.com/NelisiweBezana/Threatened-Species-Analysis) | Cleaned and analysed IUCN species data in SQL and visualised trends with Power BI. | SQL, Python, Power BI |
 | [📊 Data Visualisation in Power BI](https://github.com/NelisiweBezana/Data-Visualization-with-PowerBI) | Portfolio of interactive BI dashboards for financial and marketing data. | Power BI |
